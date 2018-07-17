@@ -1,27 +1,38 @@
 
 label {
-	  display: block;
+      display: block;
     line-height: 150%;
     font-size: .85em;
-	font-family: "Times New Roman", Times, serif;
+    font-family: "Times New Roman", Times, serif;
 }
 h4{
-	display: block;
+    display: block;
     line-height: 150%;
     font-size: .85em;
-	font-family: "Times New Roman", Times, serif;
+    font-family: "Times New Roman", Times, serif;
+    color: #2e6da4;
+    font-size: 18px;
 }
 select{
-	 display: block;
+     display: block;
     text-align: center;
     line-height: 150%;
     font-size: .85em;
-	font-family: "Times New Roman", Times, serif;
+    font-family: "Times New Roman", Times, serif;
+    
 }
 input{
-		  display: block;
+          display: block;
     text-align: center;
     line-height: 150%;
     font-size: .85em;
-	font-family: "Times New Roman", Times, serif;
+    font-family: "Times New Roman", Times, serif;
+}
+label {
+    color: #2e6da4;
+    font-size: 18px;
+}
+.button {
+    color: white;
+    background: #2e6da4;
 }

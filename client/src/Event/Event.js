@@ -92,7 +92,7 @@ class Event extends React.Component {
         const { isAuthenticated } = this.props.auth;
 
     return (
-      <div className="jumbotron">
+      <div className="card bg  col-sm-12">
         <form onSubmit={(e)=>this.handleSubmit(e,this.state )}>
           <label>
               Name of event:
