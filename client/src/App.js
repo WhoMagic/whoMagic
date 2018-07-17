@@ -71,7 +71,8 @@ you are participating in by showing you who else is at the event.</p><p> WHO MAG
 helps to expedite the networking process and increase the likely hood that 
 you will succeed in your networking endeavors! 
                  </p>
-                 
+                 <MyCarousel />
+                 <Footer />
              </div>
             </div>
             </div>
