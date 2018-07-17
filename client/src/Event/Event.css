@@ -27,6 +27,7 @@ input{
     line-height: 150%;
     font-size: .85em;
     font-family: "Times New Roman", Times, serif;
+    color: black;
 }
 label {
     color: #2e6da4;
